@@ -75,6 +75,7 @@ Project Description:
     Documentation: Provide comprehensive documentation for users and developers.
 10. Conclusion:
 
-    The Information Retrieval System with Question Answering and NER for Unstructured Data in Python project empowers users to efficiently extract knowledge and insights from     
-    unstructured textual data. By combining NLP techniques, indexing, and a user-friendly interface, this system can have broad applications across various industries, 
-    facilitating better decision-making and data exploration.
+    The Information Retrieval System with Question Answering and NER for Unstructured Data in Python project empowers users to 
+    efficiently extract knowledge and insights from unstructured textual data. By combining NLP techniques, indexing, and a
+    user-friendly interface, this system can have broad applications across various industries, facilitating better decision- 
+    making and data exploration.
